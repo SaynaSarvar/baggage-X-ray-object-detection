@@ -21,7 +21,7 @@ Currently, the model is **being fine-tuned** on the DVXray dual-view dataset �
 ## 🖼️ Sample Dataset Image
 Here is an example of **dual-view X-ray images** (OL + SD):  
 
-![Sample DVXray Dual-View](https://github.com/SaynaSarvar/baggage-X-ray-object-detection/blob/b993068fa17ce20e58a520c0e0c125e961bbe47f/dataset%20example.png)
+![Sample DVXray Dual-View](https://github.com/SaynaSarvar/baggage-X-ray-object-detection/blob/915b90a5a60a99c00b288c92cab511253c4df87b/Screenshot%202025-12-29%20at%2000.44.24.png)
 
 ---
 
