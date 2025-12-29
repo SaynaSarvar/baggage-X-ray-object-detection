@@ -3,7 +3,6 @@
 ![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0.1-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Dataset](https://img.shields.io/badge/Dataset-DVXray-orange)
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-Yes-brightgreen)
 
